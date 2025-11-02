@@ -1,16 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple, fast, and responsive contact management web app built using React + Vite.
+It provides an easy way to store, organize, and manage contact information with an intuitive user interface.
+Users can add, edit, search, sort, and delete contacts in just a few clicks.
+The app also includes smart validation — it checks for duplicate contacts and ensures phone numbers have exactly 10 digits before saving.
 
-Currently, two official plugins are available:
+The layout is designed to be fully responsive, adapting smoothly to both desktop and mobile screens.
+A soothing blue gradient theme adds a modern and clean touch to the overall look of the application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 Live Demo: https://tria-contact.vercel.app/
